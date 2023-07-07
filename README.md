@@ -1,4 +1,4 @@
-# Pi-Hole Custom Block Page
+# Custom Block Page
 # Screenshot
 
 Custom 1
